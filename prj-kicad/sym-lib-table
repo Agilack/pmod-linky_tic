@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name pmod-linky_tic)(type Legacy)(uri ${KIPRJMOD}/pmod-linky_tic.lib)(options "")(descr ""))
+)

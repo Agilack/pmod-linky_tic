@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name pmod-linky_tic)(type KiCad)(uri ${KIPRJMOD}/pmod-linky_tic.pretty)(options "")(descr ""))
+)
